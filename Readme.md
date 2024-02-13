@@ -22,5 +22,5 @@
 
 
 ### **Final table structure**
-####![This file contains 4 tables, including parks_info, Facilities, ParkFacilities, and parks, all of which have been normalized to both the First and Second Normal Form](/images/finalTableStructures.png)
+####![This file contains 4 tables, including parks_info, Facilities, ParkFacilities, and parks, all of which have been normalized to both the First and Second Normal Form](/Images/finalTableStructures.png)
 
